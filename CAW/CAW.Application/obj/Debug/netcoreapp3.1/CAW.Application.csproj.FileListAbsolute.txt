@@ -1,0 +1,13 @@
+C:\Projects\CAW\CAW.Application\bin\Debug\netcoreapp3.1\CAW.Application.deps.json
+C:\Projects\CAW\CAW.Application\bin\Debug\netcoreapp3.1\CAW.Application.dll
+C:\Projects\CAW\CAW.Application\bin\Debug\netcoreapp3.1\CAW.Application.pdb
+C:\Projects\CAW\CAW.Application\bin\Debug\netcoreapp3.1\CAW.Data.dll
+C:\Projects\CAW\CAW.Application\bin\Debug\netcoreapp3.1\CAW.Data.pdb
+C:\Projects\CAW\CAW.Application\obj\Debug\netcoreapp3.1\CAW.Application.csproj.AssemblyReference.cache
+C:\Projects\CAW\CAW.Application\obj\Debug\netcoreapp3.1\CAW.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CAW\CAW.Application\obj\Debug\netcoreapp3.1\CAW.Application.AssemblyInfoInputs.cache
+C:\Projects\CAW\CAW.Application\obj\Debug\netcoreapp3.1\CAW.Application.AssemblyInfo.cs
+C:\Projects\CAW\CAW.Application\obj\Debug\netcoreapp3.1\CAW.Application.csproj.CoreCompileInputs.cache
+C:\Projects\CAW\CAW.Application\obj\Debug\netcoreapp3.1\CAW.Application.csproj.CopyComplete
+C:\Projects\CAW\CAW.Application\obj\Debug\netcoreapp3.1\CAW.Application.dll
+C:\Projects\CAW\CAW.Application\obj\Debug\netcoreapp3.1\CAW.Application.pdb
